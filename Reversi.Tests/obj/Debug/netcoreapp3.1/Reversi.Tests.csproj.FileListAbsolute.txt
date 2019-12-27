@@ -1,0 +1,14 @@
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.exe
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.Tests.deps.json
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.Tests.dll
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.dll
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.pdb
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\obj\Debug\netcoreapp3.1\Reversi.Tests.csprojAssemblyReference.cache
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\obj\Debug\netcoreapp3.1\Reversi.Tests.AssemblyInfoInputs.cache
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\obj\Debug\netcoreapp3.1\Reversi.Tests.AssemblyInfo.cs
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\obj\Debug\netcoreapp3.1\Reversi.Tests.csproj.CopyComplete
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.Tests.runtimeconfig.json
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.Tests.runtimeconfig.dev.json
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\bin\Debug\netcoreapp3.1\Reversi.Tests.pdb
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\obj\Debug\netcoreapp3.1\Reversi.Tests.dll
+C:\Users\Dovahkiin\source\repos\Reversi\Reversi.Tests\obj\Debug\netcoreapp3.1\Reversi.Tests.pdb
